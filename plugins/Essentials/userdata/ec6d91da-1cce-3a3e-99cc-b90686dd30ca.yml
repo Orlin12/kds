@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707161346407
+  login: 1707161316293
+money: '0'
+last-account-name: OrlinBOT137
+logoutlocation:
+  world: ed393511-2853-4cd1-967f-fbfabf87c1f2
+  world-name: world
+  x: -8.5
+  y: 64.0
+  z: -47.5
+  yaw: 0.0
+  pitch: 0.0

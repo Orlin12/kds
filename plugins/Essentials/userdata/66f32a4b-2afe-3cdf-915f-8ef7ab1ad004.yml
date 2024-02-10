@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707337876892
+  login: 1707337644238
+money: '0'
+last-account-name: Orlin3938
+logoutlocation:
+  world: ed393511-2853-4cd1-967f-fbfabf87c1f2
+  world-name: world
+  x: -233.49454207669578
+  y: 64.0
+  z: -348.61625487957616
+  yaw: 36.192718505859375
+  pitch: 16.049421310424805
+lastlocation:
+  world: ed393511-2853-4cd1-967f-fbfabf87c1f2
+  world-name: world
+  x: -192.5
+  y: 64.0
+  z: -35.5
+  yaw: -82.64913177490234
+  pitch: 16.949983596801758

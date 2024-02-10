@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.173.13.52
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707337875345
+  login: 1707337644138
+money: '0'
+last-account-name: m1steriouss
+logoutlocation:
+  world: ed393511-2853-4cd1-967f-fbfabf87c1f2
+  world-name: world
+  x: -79.91628308166072
+  y: 59.37693201461828
+  z: -120.16549189559542
+  yaw: 118.19964599609375
+  pitch: -4.649869441986084
