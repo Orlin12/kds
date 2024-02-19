@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 109.160.28.95
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1707163462332
-  login: 1707162085776
+  logout: 1708108547952
+  login: 1708106599449
 money: '0'
 last-account-name: Nerixbg25
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: ed393511-2853-4cd1-967f-fbfabf87c1f2
   world-name: world
-  x: -189.47433530572619
-  y: 67.0
-  z: -353.3028144188046
-  yaw: 124.80007934570312
-  pitch: 8.550003051757812
+  x: -2709.5
+  y: 68.0
+  z: -3034.5
+  yaw: 32.550018310546875
+  pitch: 31.500015258789062

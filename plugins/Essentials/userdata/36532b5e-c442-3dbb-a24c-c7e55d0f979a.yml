@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 109.160.24.250
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1707241457808
-  login: 1707240119807
+  logout: 1708207490752
+  login: 1708207450899
 money: '0'
 last-account-name: Alex
 logoutlocation:
   world: ed393511-2853-4cd1-967f-fbfabf87c1f2
   world-name: world
-  x: 101.48549223785392
-  y: 61.5625
-  z: -195.65270015721202
-  yaw: -65.3543701171875
-  pitch: 51.21467208862305
+  x: 132.89771409750566
+  y: 38.0
+  z: -196.37777059687585
+  yaw: 52.28558349609375
+  pitch: 61.6491584777832

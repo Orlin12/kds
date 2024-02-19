@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 77.71.51.146
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1707503629883
-  login: 1707502762159
+  logout: 1708106827057
+  login: 1708106703449
 money: '0'
 last-account-name: kartofa09876
 logoutlocation:
   world: ed393511-2853-4cd1-967f-fbfabf87c1f2
   world-name: world
-  x: -183.3833154875398
-  y: 71.0
-  z: -379.3798159172322
-  yaw: 157.611572265625
-  pitch: 47.836334228515625
+  x: -192.8034261960649
+  y: 74.0
+  z: -356.371037870946
+  yaw: -55.8404541015625
+  pitch: 28.973709106445312
